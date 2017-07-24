@@ -1,0 +1,29 @@
+/**********************************/
+/*                                */
+/*      SERVICE                   */
+/*                                */
+/**********************************/
+
+.panel-collapse-clickable {
+    cursor: pointer;
+}
+
+.panel-heading {
+    border-bottom: 2px solid black;
+}
+.panel-default>.panel-heading {
+    /*color: #333;*/
+    background-color: white !important;
+    /*border-color: #000 !important;*/
+}
+.panel {
+    border: none;
+}
+.scrolling-link i {
+    color: #9b2c93;
+}
+/*@media (min-width: 1024px) {*/
+    /*.panel-body img{*/
+        /*margin-left: -10em;*/
+    /*}*/
+/*}*/

@@ -1,0 +1,97 @@
+/************************/
+/*						*/
+/*   solutions-content  */
+/*						*/
+/************************/
+/************* 1400 *****************/
+@media (min-width: 1400px) {
+    .promo {
+        min-height: 726px;
+    }
+    .promo h1 {
+        font-size: 8rem;
+        line-height: 1.1;
+        margin: 0 0 0.3em;
+    }
+    .promo p {
+        font-size: 3.8rem;
+    }
+
+    .promo .col {
+        padding: 9vw 0 0;
+        margin: 0 0 0 36.5vw;
+    }
+
+    .cta {
+        /*font-size: 3.3rem;*/
+        padding: 9vw 0 10vw;
+    }
+    .cta .text-box h3 {
+        margin-bottom: 0.9em;
+    }
+
+    .parallax-section .img-holder #parallax-2 .col {
+        max-width: 46vw;
+    }
+    .text-box h3{
+        font-size: 1.515em;
+    }
+    .text-box p {
+        font-size: 1.1em;
+        font-weight: 300;
+    }
+}
+
+/**************** 1024 *************************/
+@media (min-width: 1024px){
+    .promo .col {
+        max-width: 860px;
+    }
+    .text-box {
+        padding-right: 7em;
+        padding-left: 7em;
+    }
+}
+
+/******************768***************************/
+@media (min-width: 768px){
+    .container {
+        padding: 0 14px;
+    }
+    .parallax-section .img-holder p {
+        font-size: 1.17em;
+    }
+    .text-box {
+        padding-right: 7em;
+        padding-left: 7em;
+    }
+
+}
+
+/*****************767*****************************/
+@media (max-width: 767px) {
+    .text-box {
+        padding-left: 1em;
+        padding-right: 1em;
+    }
+    .text-box p {
+        font-size: 1.5em;
+        text-align: left;
+        font-weight: 300;
+    }
+    .text-padding{
+        font-size: 0.8em;
+        /*font-weight: 300;*/
+    }
+    #footer-section {
+        display: none;
+    }
+    .logos {
+        display: none;
+    }
+
+}
+.cta h3 {
+    margin-bottom: 0.9em;
+    padding-bottom: 0.9em;
+}

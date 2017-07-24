@@ -1,0 +1,300 @@
+/*********************************/
+/*						*********/
+/*   solutions-liking  */
+/*						*******/
+/*****************************/
+@media (min-width: 1400px) {
+    .text-box .btn-danger{
+        width: 25%;
+        font-size: 2.3rem;
+    }
+}
+@media (min-width: 1024px){
+    .promo .col {
+        max-width: 962px;
+    }
+    .promo p {
+        padding-right: 5.5em;
+    }
+}
+@media (min-width: 1024px) {
+    .cta1 p{
+        padding: 0 0.9em;
+        font-size: 2.7rem;
+    }
+    .cta img{
+        padding-left: 1.5rem;
+    }
+    .cta p{
+        margin-bottom: 0.5rem;;
+    }
+    .text-green{
+        font-size: 3.5rem !important;
+        padding-left: 1.9rem !important;
+        padding-right: 1.9rem !important;
+    }
+    .text-box-1{
+        padding-bottom: 5em;
+    }
+    .text-padding{
+        padding-right: 0.7em;
+    }
+    .numberCircle {
+        border-radius: 50%;
+        width: 111px;
+        height: 111px;
+        padding: 8px;
+        border: 4px solid #37a73c;
+        color: #FF2E63;
+        text-align: center;
+        font: 80px Arial, sans-serif;
+        margin-bottom: 0.3em;
+        margin-left: 0.4em;
+    }
+    .text-box-5{
+        /*padding-right: 3rem;*/
+        /*font-size: 22px !important;*/
+        padding-bottom: 50px;
+        line-height: 2em;
+        letter-spacing:-1px;
+    }
+
+    .text-box-2{
+        /*padding-left: 3rem;*/
+        border-left: 2px solid #FF2E63;
+        /*font-size: 22px !important;*/
+        padding-bottom: 50px;
+        line-height: 2em;
+        letter-spacing:-1px;
+    }
+    .text-box-3{
+        margin-left: 30px;
+    }
+    .text-box-4{
+        margin-left: -15px;
+    }
+
+
+
+}
+
+@media only screen and (min-width: 768px) and (max-width: 1023px) {
+    .cta1 p{
+        /*padding: 0 0.9em;*/
+        font-size: 2rem;
+    }
+    .cta img{
+        padding-left: 1rem;
+    }
+    .cta p{
+        margin-bottom: 0.5rem;;
+    }
+    /*.cta h3 {*/
+        /*font-size: 2.6rem;*/
+    /*}*/
+    .text-green{
+        font-size: 2.3rem !important;
+    }
+    .text-box-1{
+        padding-bottom: 1em;
+    }
+    .text-padding{
+        padding-right: 0;
+    }
+    .numberCircle {
+        border-radius: 50%;
+        width: 111px;
+        height: 111px;
+        padding: 8px;
+        border: 4px solid #37a73c;
+        color: #FF2E63;
+        text-align: center;
+        font: 80px Arial, sans-serif;
+        margin-bottom: 0.3em;
+        margin-left: 0;
+    }
+    .text-box {
+        padding-right: 0;
+        padding-left: 0;
+    }
+    .text-holder p {
+        font-size: 0.7em;
+        font-weight: 300;
+        padding-right: 2em;
+        padding-left: 2em;
+    }
+    .parallax-section h2 {
+        font-size: 2.6rem;
+        font-weight: 0;
+    }
+    .promo h1{
+        font-size: 4.1rem;
+    }
+    .promo p {
+        font-size: 1.2em;
+        padding-right: 0;
+    }
+    .text-box-5{
+        padding-right: 1em;
+        /*font-size: 22px !important;*/
+        padding-bottom: 50px;
+        /*line-height: 2em;*/
+    }
+
+    .text-box-2{
+        padding-left: 1em;
+        border-left: 2px solid #FF2E63;
+        /*font-size: 22px !important;*/
+        padding-bottom: 50px;
+        /*line-height: 2em;*/
+    }
+    .text-box-3{
+        margin-left: 30px;
+    }
+    .text-box-4{
+        margin-left: -15px;
+    }
+
+
+}
+
+
+@media (min-width: 768px) {
+    .background-1{
+        background-image: url(../images/solutions/background-1.png);
+    }
+    .cta .col-md-6 {
+        margin-bottom: -2em;
+    }
+    .cta h3 {
+        font-size: 3.6rem;
+    }
+    .cta {
+        line-height: 1.518;
+    }
+    .cta p {
+        font-size: 2.6rem;
+        /*line-height: 1.5rem;*/
+    }
+
+    .slider{
+        display: none;
+    }
+
+
+
+}
+@media (max-width: 767px){
+    .background-1{
+        background-image: url(../images/solutions/background-2.jpg);
+    }
+    .cta1 p{
+        padding: 0 0.9em;
+        font-size: 2rem;
+    }
+    .cta img{
+        padding-left: 1.5rem;
+    }
+    .cta p{
+        margin-bottom: 0.5rem;;
+    }
+    .text-green{
+        font-size: 3rem !important;
+        /*padding-left: 1.9rem !important;*/
+        /*padding-right: 1.9rem !important;*/
+    }
+    .text-box-1{
+        padding-bottom: 5em;
+    }
+    .text-padding{
+        padding-right: 0;
+    }
+    .numberCircle {
+        border-radius: 50%;
+        width: 111px;
+        height: 111px;
+        padding: 8px;
+        border: 4px solid #37a73c;
+        color: #FF2E63;
+        text-align: center;
+        font: 80px Arial, sans-serif;
+        margin-bottom: 0.3em;
+        /*margin-left: 0;*/
+        margin-left: 1.4em;
+    }
+    .carousel-control {
+        color: #37a73c !important;
+    }
+    .carousel-indicators {
+        bottom: -30px !important;
+    }
+    .carousel-indicators .active{
+        background-color: #37a73c !important;
+    }
+    .carousel-indicators li{
+        background-color: #797979 !important;
+    }
+    .cta1 {
+        display: none;
+    }
+    .text-padding1 img {
+        margin-left: 7em;
+        padding-top: 10em;
+        /*padding-right: 2em;*/
+    }
+
+}
+.scrolling-link i{
+    color: #37a73c;
+}
+
+/*********TEXT Box style***********/
+
+/*.cta p{*/
+    /*margin-bottom: 0.5rem;;*/
+/*}*/
+/*.text-green{*/
+    /*color: #37a73c !important;*/
+    /*font-size: 3.5rem !important;*/
+    /*padding-left: 1.9rem !important;*/
+    /*padding-right: 1.9rem !important;*/
+/*}*/
+/*.numberCircle {*/
+    /*border-radius: 50%;*/
+    /*width: 111px;*/
+    /*height: 111px;*/
+    /*padding: 8px;*/
+    /*border: 4px solid #37a73c;*/
+    /*color: #FF2E63;*/
+    /*text-align: center;*/
+    /*font: 80px Arial, sans-serif;*/
+    /*margin-bottom: 0.3em;*/
+    /*margin-left: 0.4em;*/
+/*}*/
+
+/*.text-box-1{*/
+    /*padding-bottom: 5em;*/
+/*}*/
+
+
+
+
+/*.text-box-5{*/
+    /*padding-right: 100px;*/
+    /*font-size: 22px !important;*/
+    /*padding-bottom: 50px;*/
+/*}*/
+
+/*.text-box-2{*/
+    /*padding-left: 100px;*/
+    /*border-left: 2px solid #FF2E63;*/
+    /*font-size: 22px !important;*/
+    /*padding-bottom: 50px;*/
+/*}*/
+/*.text-box-3{*/
+    /*margin-left: 30px;*/
+/*}*/
+/*.text-box-4{*/
+    /*margin-left: -15px;*/
+/*}*/
+

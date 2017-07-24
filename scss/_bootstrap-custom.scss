@@ -1,0 +1,47 @@
+// custom variables and override bootstrap variables
+
+$white:								#fff;
+$black:								#2c2c2c;
+$red:								#ff2e64;
+$burgundy:							#cc004e;
+$burgundy-light:					#d81a60;
+$green:								#37a73c;
+$gray:								#797979;
+$purple:							#9b2c94;
+$blue:								#5458ff;
+
+$body-bg:							$white;
+
+$brand-primary:         $blue;
+$brand-success:         $green;
+$brand-info:            #5bc0de;
+$brand-warning:         #f0ad4e;
+$brand-danger:          $burgundy-light;
+
+$font-family-sans-serif:  'Open Sans', 'Arial', 'Helvetica Neue', 'Helvetica', sans-serif;
+
+$font-size-base: 					20px;
+$line-height-base: 					1.5;
+$headings-font-weight: 				700;
+
+$font-size-h2: 						72px;
+$headings-font-weight: 				400;
+
+$font-size-h3: 						49px;
+$line-height-base: 					1.224;
+$headings-font-weight:				600;
+
+$btn-primary-color:              $brand-primary;
+$btn-primary-bg:                 $brand-primary;
+$btn-primary-border:             $brand-primary;
+
+$btn-success-color:              $brand-success;
+$btn-success-bg:                 $brand-success;
+$btn-success-border:             $brand-success;
+
+$btn-danger-color:               $brand-danger;
+$btn-danger-bg:                  $brand-danger;
+$btn-danger-border:              $brand-danger;
+
+$btn-border-radius-base: 0;
+

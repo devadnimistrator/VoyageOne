@@ -1,0 +1,23 @@
+/************************/
+/*						*/
+/*   Home-page  *********/
+/*						*/
+/************************/
+@media (max-width: 767px) {
+    .logos {
+        display: none;
+    }
+    .cta {
+        display: none;
+    }
+}
+
+@media only screen and (min-width: 1280px) and (max-width: 1439px) {
+    .parallax-section .img-holder h2 {
+        padding-right: 91px;
+    }
+    .parallax-section .img-holder p {
+        padding-right: 9em;
+    }
+
+}

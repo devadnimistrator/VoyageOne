@@ -1,0 +1,77 @@
+/*********************************/
+/*						*********/
+/*   solutions-presence  */
+/*						*******/
+/*****************************/
+@media (min-width: 1400px){
+    .parallax-section .img-holder #parallax-2 .col {
+        max-width: 49vw;
+    }
+
+    .text-box .btn-danger{
+        width: 20%;
+    }
+}
+
+.scrolling-link i{
+    color: #5357FF;
+}
+.numberCircle {
+    border-radius: 50%;
+    width: 111px;
+    height: 111px;
+    padding: 8px;
+    border: 4px solid #5357FF;
+    color: #FF2E63;
+    text-align: center;
+    font: 80px Arial, sans-serif;
+    margin-bottom: 30px;
+}
+@media (min-width: 992px){
+    .col-md-2 {
+        width: 20%;
+    }
+}
+.carousel-control {
+    color: #5357FF !important;
+}
+.carousel-indicators .active{
+    background-color: #5357FF !important;
+}
+.text-color-blue{
+    color: #5357FF;
+}
+.text-container {
+    padding: 5em 0;
+}
+
+.text-container .row {
+    margin-top: 3em;
+}
+
+.text-container {
+    padding: 4vw 6vw;
+}
+
+.text-container .text-content {
+    padding-left: 6vw;
+}
+
+.text-container .row .col-md-4:first-child .text-content {
+    padding-left: 0;
+}
+
+.text-container .text-content-1 {
+    padding-left: 4vw;
+}
+
+.text-container .row .col-md-3:first-child .text-content-1 {
+    padding-left: 0;
+}
+
+.text-container .row .col-md-2:first-child .text-content-2 {
+    padding-left: 0;
+}
+.text-container .row .col-md-3:first-child .text-content-2 {
+    padding-left: 0;
+}
